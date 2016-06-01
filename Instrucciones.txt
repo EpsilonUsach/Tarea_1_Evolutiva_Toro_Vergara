@@ -1,0 +1,4 @@
+Se debe tener instalado Matlab.
+Ejecutar el codigo matlab correspondiente al dataset deseado (matlab lo abrira, agregar la path cuando se solicite)
+Asegurarse que el archivo correspondiente al dataset (ej. AUS.data para AUS) se encuentre en la misma carpeta que el codigo.
+Ejecutar el codigo y esperar a que el programa ejecute la cantidad de iteraciones. 
